@@ -1,7 +1,7 @@
 # Arabs in Blockchain community meetups 
 
 ## Date & Time : 
-Regular date and time , monthly based 
+Regular date and time , monthly based ( first Friday of each month @ 11 PM Dubai time  - 10 PM Cairo time)
 ## Host: 
 One or group of Arab experts willing to ( organize, manage, explain topics )
 ## Formate :
